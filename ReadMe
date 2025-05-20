@@ -4,26 +4,30 @@ Introduction
 
 This Real-Time-Event-Ticketing-System is a application designed to vendors ading tickets and customers buying tickets. There is ticket pool vendors adding tickets to it and customers buying tickets from it..
 
-UI Controls 
 
 ---Frontend---
 
  
-	configure the system by giveing the configuration parameters
-		Total Number of Tickets (totalTickets)
-		Ticket Release Rate (ticketReleaseRate)
-		Customer Retrieval Rate (customerRetrievalRate)
-		Maximum Ticket Capacity (maxTicketCapacity)
-
+configure the system by giveing the configuration parameters
+	Total Number of Tickets (totalTickets)
+	Maximum Ticket Capacity (maxTicketCapacity)
+	Ticket Release Rate (ticketReleaseRate)
+	Customer Retrieval Rate (customerRetrievalRate)
+	Number of Vendors
+	Number of Customers
+		
+After configure can start the System then start customer adding buying tickets and vendors adding tickets
 
 
 
 --Backend--
 
+Backrnd shows how customer adding buying tickets and vendors adding tickets
 
 
 --CLI--
 
 In the CLI part can simulate ticket buying and selling with custom customers and custom vendors
+this shoud run seperatly
 
 
