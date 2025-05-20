@@ -18,11 +18,11 @@ configure the system by giveing the configuration parameters
 		
 After configure can start the System then start customer adding buying tickets and vendors adding tickets
 
-
+In this can check available tickets
 
 --Backend--
 
-Backrnd shows how customer adding buying tickets and vendors adding tickets
+Backrnd shows how customer adding buying tickets and vendors adding tickets when running the System
 
 
 --CLI--
@@ -30,4 +30,5 @@ Backrnd shows how customer adding buying tickets and vendors adding tickets
 In the CLI part can simulate ticket buying and selling with custom customers and custom vendors
 this shoud run seperatly
 
-
+This is the video demostration link
+https://youtu.be/HJFfA09Qi4Q
