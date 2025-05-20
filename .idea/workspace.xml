@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a5b85e3-7de9-4178-b8ee-28389d6959e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real-Time Event Ticketing System Java CLI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Configaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicketPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vendor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pSwh3mggWnYarE16gpN3BpDpKn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Configaration.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IIT NOTES/Degree/Year 2/Semester 2/Algorithms/cw/w2053201_20230162/w2053201_20230162_CW",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/IIT NOTES/Degree/Year 2/Semester 1/OOP/Real-Time Event Ticketing System Java CLI/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a5b85e3-7de9-4178-b8ee-28389d6959e2" name="Changes" comment="" />
+      <created>1732772900181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732772900181</updated>
+      <workItem from="1732772901192" duration="436000" />
+      <workItem from="1732773349079" duration="2259000" />
+      <workItem from="1732851551009" duration="7268000" />
+      <workItem from="1733158148601" duration="322000" />
+      <workItem from="1733203936895" duration="14000" />
+      <workItem from="1733216821324" duration="8328000" />
+      <workItem from="1733269129143" duration="38000" />
+      <workItem from="1733284968753" duration="5266000" />
+      <workItem from="1733298371480" duration="24000" />
+      <workItem from="1733304819928" duration="3075000" />
+      <workItem from="1733367831697" duration="20636000" />
+      <workItem from="1733630239012" duration="2848000" />
+      <workItem from="1733709380171" duration="24456000" />
+      <workItem from="1733882492313" duration="1812000" />
+      <workItem from="1733929493143" duration="12296000" />
+      <workItem from="1733979225972" duration="5757000" />
+      <workItem from="1733985821876" duration="369000" />
+      <workItem from="1733986261992" duration="15000" />
+      <workItem from="1747662006897" duration="66000" />
+      <workItem from="1747662082964" duration="2000" />
+      <workItem from="1747662605726" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
